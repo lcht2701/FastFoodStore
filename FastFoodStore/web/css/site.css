@@ -1,0 +1,71 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 1, 2022, 5:11:06 PM
+    Author     : SE161707 Le Thanh Dat
+*/
+
+.header{
+    position: relative;
+    height: 60px;
+}
+
+.logo{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.header-text{  
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    text-align: right;
+}
+
+.header-link {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+.footer{
+    text-align: center;
+}
+
+.page-header {
+    border-bottom: 1px solid lightgray;
+}
+
+.content {
+    min-height: 300px;
+}
+
+.btn-default {
+    color: darkblue;
+    background-color: #d58512;
+}
+
+.btn-outline-default {
+    color: #212529;
+    border-color: #212529;
+}
+
+.btn-outline-default:hover {
+    background-color: white;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.center-button{    
+    display: flex; justify-content: center; align-items: center; margin-top: 2px
+}
+
+.center-div{
+    ;
+}
+
